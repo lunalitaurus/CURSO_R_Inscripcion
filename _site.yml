@@ -1,0 +1,23 @@
+name: "CursoR2024"
+navbar:
+  left:
+    - text: "Home"
+      href: "index.html"
+    - text: "Acerca de"  
+      href: "About.html"  
+
+  right:
+    - text: "Rubén Muñoz"
+  type: inverse
+output: 
+ html_document:
+   theme: cerulean
+   fig_caption: yes
+   toc: yes
+   toc_float: yes
+   toc_depth: 3
+output_dir: "."
+   
+
+ 
+      
