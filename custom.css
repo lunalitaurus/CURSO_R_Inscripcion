@@ -19,6 +19,15 @@ body {
     font-family: 'Verdana', sans-serif;
     font-size: 20px;
 }
+
+.texto{
+    font-family: 'Verdana', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    width: 70%;
+    
+  
+}
 /* Estilo básico para el pie de página */
 footer {
   background-color: #04488b; /* Color de fondo */
@@ -37,7 +46,7 @@ footer {
 
 .img {
     text-align: center;
-    width: 60%;
+    width: 90%;
     vertical-align: top;
     margin: 5% auto;
     padding: 30px 20px;
