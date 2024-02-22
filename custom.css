@@ -23,7 +23,8 @@ body {
 .texto{
     font-family: 'Verdana', sans-serif;
     font-size: 20px;
-    text-align: center;
+    text-align: justify;
+    
   
 }
 /* Estilo básico para el pie de página */
@@ -39,7 +40,8 @@ footer {
 .Copyright {
   margin: 0; /* Eliminar el margen predeterminado del párrafo */
   font-size: 14px; /* Tamaño del texto */
-  color: white; /* Color del texto */
+  color: white;
+  text-decoration-color: white;/* Color del texto */
 }
 
 .img {

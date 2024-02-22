@@ -4,7 +4,9 @@ navbar:
     - text: "Home"
       href: "index.html"
     - text: "Acerca de"  
-      href: "About.html"  
+      href: "About.html" 
+    - text: "Temario"  
+      href: "Temario.html" 
 
   right:
     - text: "Rubén Muñoz"
